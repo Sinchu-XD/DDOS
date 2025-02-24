@@ -20,7 +20,7 @@ loop = asyncio.get_event_loop()
 
 MONGO_URI = os.environ.get("MONGO_URI", "mongodb+srv://Sinchu:Sinchu@sinchu.qwijj.mongodb.net/?retryWrites=true&w=majority&appName=Sinchu")
 
-TOKEN = 'BOT TOKEN HERE'
+TOKEN = '8095096286:AAGtId-d51HL7ezrDnqffKeQ4WF9ONEMieI'
 MONGO_URI = 'mongodb+srv://Sinchu:Sinchu@sinchu.qwijj.mongodb.net/?retryWrites=true&w=majority&appName=Sinchu'
 FORWARD_CHANNEL_ID = -4694535872
 CHANNEL_ID = -4694535872
